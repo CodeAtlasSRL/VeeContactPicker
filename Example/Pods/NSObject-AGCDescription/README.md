@@ -39,7 +39,7 @@ Given a simple class representing a User:
 Go the the implementation file, import the category:
 
 ```objective-c
-#import "NSObject+AGCDescription.h"
+# import "NSObject+AGCDescription.h"
 ```
 
 And delegate ```AGCDescription``` to returns the description strings for you:
